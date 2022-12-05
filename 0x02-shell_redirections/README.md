@@ -1,0 +1,1 @@
+Creatings files for redirections
