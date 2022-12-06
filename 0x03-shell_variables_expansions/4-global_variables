@@ -1,2 +1,2 @@
-#!/bin/bash
-echo printenv | wc -l
+#!/bin/b
+printenv | wc -l
