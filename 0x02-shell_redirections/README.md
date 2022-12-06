@@ -1,1 +1,1 @@
-Creatings files for redirections
+Creating shell initialization files, variables and expansions
